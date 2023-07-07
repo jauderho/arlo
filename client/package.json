@@ -136,7 +136,7 @@
     "prettier": "^1.19.1",
     "react-test-renderer": "^16.13.1",
     "sort-package-json": "^1.40.0",
-    "stylelint": "^10.0.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-palantir": "^4.0.0",
     "stylelint-config-prettier": "^5.1.0",
     "stylelint-config-styled-components": "^0.1.1",
